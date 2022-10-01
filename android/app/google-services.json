@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "584201267144",
+    "project_id": "jobber-15aad",
+    "storage_bucket": "jobber-15aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584201267144:android:e5a788fb35196be0a842fd",
+        "android_client_info": {
+          "package_name": "com.example.hire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584201267144-0hrknjukqkd98js9pa021s1r08mfr2ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2l5bgjRUs4Wmsp93ivCH61kGEgJVcyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584201267144-0hrknjukqkd98js9pa021s1r08mfr2ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584201267144-0hd3oei8glmplgrad4288cqdgvclnvjp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
